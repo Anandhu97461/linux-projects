@@ -9,7 +9,7 @@ This repository is a collection of hands-on Linux projects designed to apply and
 | ✅ Project Title                        | 📝 Description                                                                            | 🔗 Link                    |
 |----------------------------------------|------------------------------------------------------------------------------------------|----------------------------|
 | Secure Linux Server Setup              | Hardened Ubuntu server with UFW, SSH key login, custom LVM, swap, and monitoring tools.  | [server-secure-setup](server-secure-setup) |
-| Storage and Performance Lab            | Disk partitioning, LVM setup, ACLs, user resource limits, and system monitoring tools.   | [server-storage-lab](storage-performance-setup)   |
+| Storage and Performance Lab            | Disk partitioning, LVM setup, ACLs, user resource limits, and system monitoring tools.   | [storage-performance-setup](storage-performance-setup)   |
 | ⏳ More Coming Soon...                  | Additional LFCS/DevOps mini-projects are in progress — stay tuned!                      | –                          |
 
 ---
