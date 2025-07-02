@@ -4,22 +4,6 @@ This project simulates a real-world Linux environment focused on storage configu
 
 ---
 
-## 📦 Project Structure
-
-server-storage-lab/
-├── README.md
-├── scripts/
-│ ├── partition-setup.sh
-│ ├── lvm-setup.sh
-│ ├── resource-limits.sh
-│ ├── acl-setup.sh
-│ └── performance-tools.sh
-└── notes/
-├── planning.md
-└── commands-used.md
-
----
-
 ## 🚀 What This Project Covers
 
 | Section | Topic | Highlights |
