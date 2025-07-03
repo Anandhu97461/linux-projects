@@ -6,11 +6,12 @@ This repository is a collection of hands-on Linux projects designed to apply and
 
 ## 📂 Project List
 
-| ✅ Project Title                        | 📝 Description                                                                            | 🔗 Link                    |
-|----------------------------------------|------------------------------------------------------------------------------------------|----------------------------|
-| Secure Linux Server Setup              | Hardened Ubuntu server with UFW, SSH key login, custom LVM, swap, and monitoring tools.  | [server-secure-setup](server-secure-setup) |
-| Storage and Performance Lab            | Disk partitioning, LVM setup, ACLs, user resource limits, and system monitoring tools.   | [storage-performance-setup](storage-performance-setup)   |
-| ⏳ More Coming Soon...                  | Additional LFCS/DevOps mini-projects are in progress — stay tuned!                      | –                          |
+| ✅ Project Title                 | 📝 Description                                                                                 | 🔗 Link                                 |
+|----------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------|
+| Secure Linux Server Setup        | Hardened Ubuntu server with UFW, SSH key login, custom LVM, swap, and monitoring tools.       | [server-secure-setup](server-secure-setup) |
+| Storage and Performance Lab      | Disk partitioning, LVM setup, ACLs, user resource limits, and system monitoring tools.        | [storage-performance-setup](storage-performance-setup) |
+| DevOps-Ready Linux Box           | Daily cron jobs, rsync-based backups, disk usage monitoring, and logrotate setup.             | [devops-ready-linux-box](devops-ready-linux-box)     |
+| ⏳ More Coming Soon...           | Additional LFCS/DevOps mini-projects are in progress — stay tuned!                           | –                                        |
 
 ---
 
@@ -18,12 +19,13 @@ This repository is a collection of hands-on Linux projects designed to apply and
 
 These projects aim to help me:
 
-- ✅ Strengthen foundational Linux sysadmin skills
-- 🔐 Practice system hardening and SSH security
-- 💽 Master disk partitioning, LVM, and mount management
-- 📊 Monitor and analyze performance using real tools
-- ⚙️ Automate tasks using Bash scripting
-- 📦 Document all scripts and configurations for reuse
+- ✅ Strengthen foundational Linux sysadmin skills  
+- 🔐 Practice system hardening and SSH security  
+- 💽 Master disk partitioning, LVM, and mount management  
+- 📊 Monitor and analyze performance using real tools  
+- ⚙️ Automate tasks using Bash scripting  
+- 🧰 Build production-grade scripts for cron, logging, and maintenance  
+- 📦 Document all scripts and configurations for reuse  
 
 Each project includes:
 - Modular Bash scripts (`scripts/`)
